@@ -8,10 +8,12 @@ This repository contains:
 * Data Wrangling : programmatically download data from S3 buckets and perform preprocessing and wrangling to clean the data
 * Exploratory data analysis (on clean data): find patterns and insights using statistical and visualization tools
 * Data-pipeline : Luigi pipeline to automate the extraction, transformation and loading of the data
-* Docker : Build docker image to execute 
+* Docker : Build Docker image to execute 
+* CronJob : To schedule the execution of the docker images
 
 ### Tools used:
 Jupyter notebook, powerBI/Tableau 
 
 ### Programming Language:
 Python
+
