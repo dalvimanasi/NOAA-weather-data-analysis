@@ -1,0 +1,8 @@
+{
+  "state": "MA",
+  "team": 1,
+  "link": ["https://www.ncei.noaa.gov/orders/cdo/996327.csv","https://www.ncei.noaa.gov/orders/cdo/996328.csv","https://www.ncei.noaa.gov/orders/cdo/996330.csv","https://www.ncei.noaa.gov/orders/cdo/996333.csv","https://www.ncei.noaa.gov/orders/cdo/996335.csv","https://www.ncei.noaa.gov/orders/cdo/996339.csv","https://www.ncei.noaa.gov/orders/cdo/996340.csv","https://www.ncei.noaa.gov/orders/cdo/996342.csv"],
+  "AWSAccess":"",
+  "AWSSecret":"",
+  "notificationEmail":"vishalsatam1988@gmail.com"
+}

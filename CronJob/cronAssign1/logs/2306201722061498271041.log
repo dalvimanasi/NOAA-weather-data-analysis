@@ -1,0 +1,14 @@
+Starting Cron Job
+Creating Ingestion Job
+Copying todays config.json and configInitial.json to datawrangle
+Starting dataingest container
+Commiting todays updates to vishalsatam1988/assign1dataingestion
+Removing completed dataingest container
+Ingestion Job Completed
+Creating Wrangling Job
+Copying todays configwrangle.json to datawrangle
+Starting datawrangle container
+Commiting todays updates to vishalsatam1988/assign1datawrangling
+Removing completed datawrangle container
+Wrangling Job Completed
+Cron Job Completed
